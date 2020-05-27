@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "955115517871",
+    "firebase_url": "https://atividadezinha-9b2ca.firebaseio.com",
+    "project_id": "atividadezinha-9b2ca",
+    "storage_bucket": "atividadezinha-9b2ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955115517871:android:ab39ba438f3543ac86615a",
+        "android_client_info": {
+          "package_name": "com.atvfelipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "955115517871-l33vq8qmhmd8dal7g0tfi9jigv2t4che.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoRV22mlDhsA6t9k0wF0KcoQLrwgWwuxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "955115517871-l33vq8qmhmd8dal7g0tfi9jigv2t4che.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
