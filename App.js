@@ -1,7 +1,7 @@
 import React,
 {useState}
 from 'react'
-import {login,home,materias} from './src/views'
+import {login,home,materias, form} from './src/views'
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
@@ -40,6 +40,7 @@ export default function App() {
      >
         <Tab.Screen name="Home" component={home} />
         <Tab.Screen name="Materias" component={materias} />
+        <Tab.Screen name="Formulario" component={form} />
       </Tab.Navigator> 
     </NavigationContainer>
   );

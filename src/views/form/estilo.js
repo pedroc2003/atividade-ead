@@ -2,7 +2,7 @@ import {StyleSheet} from 'react-native'
 
 const estilo = StyleSheet.create({
     conteiner:{
-backgroundColor:'black',
+backgroundColor:'#E5B163',
 flex:1,
 
     },
@@ -23,7 +23,7 @@ flex:1,
     botao:{
         height:30,
         fontSize:20,
-        color:'white',
+        color:'#075057',
         alignItems:'center',
         justifyContent:'center',
         alignContent:'center',
